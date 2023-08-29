@@ -3,7 +3,30 @@ body{
 }
 h1{
     font-size: 50px;
+    padding: 10px;
+}
+.half_width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half_width img{
+    width: 70%;
+}
+section{
+    display: flex;
 }
 .orrange{
     color: orange;
+}
+#left_border{
+    border-left: 5px solid tomato;
+    border-radius: 10px;
+}
+.link_button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 7px;
 }
