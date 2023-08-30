@@ -7,7 +7,7 @@ h1{
 }
 .half_width{
     width: 50%;
-    padding-left: 7%;
+    padding-left: 10%;
 }
 .half_width img{
     width: 70%;
@@ -36,7 +36,7 @@ h1{
 }
 .mission-vision-goal{
     width: 25%;
-    margin-left: 5%;
+    
     border-radius: 15px;
     padding: 15px;
 }
@@ -49,10 +49,33 @@ h1{
 }
 #mission{
     background-color: rgba(41, 41, 194, 0.103);
+    margin-left: 10%;
 }
 #vision{
     background-color: rgba(0, 0, 0, 0.103);
+    margin-left: 2.5%;
 }
 #goals{
     background-color: rgba(137, 43, 226, 0.151);
+    margin-left: 2.5%;
+}
+.develop{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 3%;
+    padding-left: 7%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 270px 270px;
+    
+}
+.develop img{
+    height: 300px;
+    width: 400px;
+    padding-top: 5%;
+    
+}
+.limits{
+    padding-left: 10%;
 }
