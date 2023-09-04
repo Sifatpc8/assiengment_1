@@ -104,8 +104,17 @@ h1{
 #corona-application img{
     width: 50%;
     margin-left: 10%;
-    padding-left: 10%;
+    padding-left: 15%;
 }
 #corona{
     padding-top: 5%;
+}
+footer{
+    font-style: initial;
+    padding: 1%;
+    color: white;
+    text-align: center;
+    background-color: rgba(14, 13, 13, 0.959);
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
 }
