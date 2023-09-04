@@ -63,6 +63,7 @@ h1{
     display: flex;
     margin-top: 100px;
     margin-left: 3%;
+    margin-right: 3%;
     padding-left: 7%;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
@@ -76,6 +77,35 @@ h1{
     padding-top: 5%;
     
 }
-.limits{
+#limits{
     padding-left: 10%;
+}
+.global-community{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 7%;
+}
+.global-community img{
+    height: 300px;
+    width: 400px;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+#community{
+    padding-right: 5%;    
+}
+.half_width2{
+    width: 50%;}
+#corona-application{
+    display: flex;
+}
+#corona-application img{
+    width: 50%;
+    margin-left: 10%;
+    padding-left: 10%;
+}
+#corona{
+    padding-top: 5%;
 }
